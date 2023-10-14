@@ -22,7 +22,7 @@
 		
 	2.安装 ActivePerl_v5.28.1.0000.exe
 		2.1 本程序可以自行下载；也可以到我的代码库/集成工具文件夹/进行下载；
-		2.2 下载dmake，我的代码库/集成工具文件夹/进行下载，然后解压到Perl根目录
+		2.2 下载dmake，我的代码库/集成工具文件夹/进行下载，然后解压到Perl\bin或者Perl64\bin根目录
 			主要因为ActivePerl没有自带dmake组件，编译环境需要用到dmake
 		2.3 打开cmd.exe 运行 cpanm -g install cpanminus  和 cpanm console::win32
 			如果遇到找不到 make 则运行 cpan o conf nmake 回车;输入commit回车;然后再次尝试
