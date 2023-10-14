@@ -115,10 +115,11 @@ auto/configure \
 	
 	如果没有遇到错误将会编译成功：等待40分钟左右编译完成，objs文件夹下会生成nginx.exe
 	
+	如果遇到报错请到https://www.baidu.com/点首页上方的的AI，把报错信息发给他解答
 	
 	本文参考文章 https://blog.csdn.net/zccoften/article/details/130700218
 			   https://gitee.com/mirrors/GmSSL
 			   https://www.gmssl.cn/gmssl/index.jsp
-			   https://www.baidu.com/首页上方的的AI整合编写
+			   
 																
 																2023年10月14日 17：33
